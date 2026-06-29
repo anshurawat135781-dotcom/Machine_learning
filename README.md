@@ -1,6 +1,7 @@
 📊 Data Science & Machine Learning Projects
 This repository showcases end‑to‑end Data Science and Machine Learning projects with professional workflows, visualizations, and model building. Each project demonstrates practical applications of Python, data preprocessing, exploratory data analysis (EDA), feature engineering, and predictive modeling.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 📂 Projects Included
 🎬 IMDb Movie Review Sentiment Analysis
 Goal: Predict whether a movie review is positive or negative using NLP and ML.
@@ -20,6 +21,8 @@ TF‑IDF effectively converts text into numerical features.
 Logistic Regression provides strong baseline performance.
 
 Visuals: Word Clouds, Confusion Matrix Heatmap, Sentiment Distribution.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🍿 Netflix Movie Recommendation System
 Goal: Recommend movies to users based on viewing history and rating patterns.
@@ -44,6 +47,8 @@ SVD++ and XGBoost deliver best performance.
 
 Visuals: Rating Trends, Popularity Curves, Explained Variance Plots.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 👥 Customer Churn Prediction
 Goal: Predict customer churn (Exited) using ML models.
 
@@ -65,10 +70,14 @@ Logistic Regression provides interpretable baseline results.
 
 Visuals: Pie Chart, Age Histogram, Gender vs Churn Count Plot, Correlation Heatmap.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🛠️ Technologies Used
 Languages: Python
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, NLTK, WordCloud, Scikit‑Learn, SciPy, Surprise, XGBoost
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📈 Results
 Sentiment Analysis: Achieved strong baseline accuracy with Logistic Regression.
